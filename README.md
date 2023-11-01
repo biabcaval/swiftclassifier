@@ -1,2 +1,2 @@
 # swiftclassifier
-A analysis of Taylor Swift's songs to classify them as Breakup or Love songs
+An analysis of Taylor Swift's songs to classify it as either Breakup or Love songs
